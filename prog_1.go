@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AlexV656/Go/prog_2"
+	"github.com/AlexV656/Go//packages/prog_2"
 )
 
 var ExportedVariable string = "Hello, World!"

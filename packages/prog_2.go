@@ -1,3 +1,3 @@
-package prog_2
+package packages
 
 var ExportedVariable string = "Hee"
